@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @kotuganesh
+- 👋 Hi, I’m Ganesh Kotu
 - 👀 I’m interested in AWS  & DEVOPS
 - 🌱 I’m currently learning Kubernates
-- 💞️ I’m looking to collaborate on working in any company as a AWS and DevOps Engineer
+- 💞️ I’m looking to collaborate with any company  to work as a AWS and DevOps Engineer
 - 📫 How to reach me ganikotu28@gmail.com
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
